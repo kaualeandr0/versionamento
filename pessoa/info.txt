@@ -1,0 +1,6 @@
+pessoa: Kauã Leandro de almeida
+altura: 1,72
+peso: 58 kg
+cor do cabelo: castanho escuro
+cor do olho: castanho
+nacionalidade: brasileiro
