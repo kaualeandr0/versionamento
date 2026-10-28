@@ -4,4 +4,6 @@ tempo de jogo: 60 horas modo historia
 lançamento: 26 de outubro de 2018 (ps4 e Xbox one)
 desenvolvedora: Rockstar
 
+finalizado
+
 

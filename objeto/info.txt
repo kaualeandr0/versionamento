@@ -2,3 +2,5 @@ Objeto: Armário
 cor: Marrom
 tamanho: 2,5 M
 formato: Retângulo
+
+finalizado
